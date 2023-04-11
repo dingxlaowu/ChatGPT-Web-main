@@ -2,6 +2,7 @@
 <img src="./docs/images/icon.svg" alt="预览"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
+[借用别人的代码-全部内容均来自作者为做相关改动，仅复制]
 
 一键免费部署你的私人 ChatGPT 网页应用。
 
